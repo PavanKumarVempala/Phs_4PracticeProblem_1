@@ -1,0 +1,12 @@
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\bin\Debug\net6.0\SchoolLib.deps.json
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\bin\Debug\net6.0\SchoolLib.dll
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\bin\Debug\net6.0\SchoolLib.pdb
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\obj\Debug\net6.0\SchoolLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\obj\Debug\net6.0\SchoolLib.AssemblyInfoInputs.cache
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\obj\Debug\net6.0\SchoolLib.AssemblyInfo.cs
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\obj\Debug\net6.0\SchoolLib.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\obj\Debug\net6.0\SchoolLib.sourcelink.json
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\obj\Debug\net6.0\SchoolLib.dll
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\obj\Debug\net6.0\refint\SchoolLib.dll
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\obj\Debug\net6.0\SchoolLib.pdb
+D:\Simplilearn\Phase_4\AssistedPractice\PracticeSubmited\PracticeProblem_1\PracticeProblem_1\SchoolLib\obj\Debug\net6.0\ref\SchoolLib.dll
